@@ -24,8 +24,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I completed my third year of Computer Engineering at EMSI.
-- 📚 I am entering my fourth year.
+- 🎓 I am a fourth-year Computer Engineering student at EMSI.
 - 🌱 I am currently developing my skills in computer networks, Linux and cybersecurity.
 - 🚗 I co-developed **CarRental**, a peer-to-peer car rental web platform.
 - 📍 Based in Morocco.
