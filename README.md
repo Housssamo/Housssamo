@@ -54,15 +54,6 @@ A web platform for car rental between individuals. It allows clients to search f
 
 [![CarRental repository card](https://github-readme-stats.vercel.app/api/pin/?username=Housssamo&repo=CarRental&theme=tokyonight&hide_border=true)](https://github.com/Housssamo/CarRental)
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Housssamo&show_icons=true&theme=tokyonight&hide_border=true" alt="Houssam's GitHub statistics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Housssamo&theme=tokyo-night&hide_border=true&area=true" alt="Houssam's contribution activity graph">
-</p>
 
 ## 📫 Contact
 
