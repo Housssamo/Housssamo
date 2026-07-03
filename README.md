@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/profile-banner.png" width="100%" alt="Houssam ELBHIRI profile banner">
 </p>
-[README_GitHub_Profile.md](https://github.com/user-attachments/files/29650756/README_GitHub_Profile.md)
 <h1 align="center">Hi, I'm Houssam 👋</h1>
 
 <h3 align="center">
